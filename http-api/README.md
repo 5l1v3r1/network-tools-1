@@ -6,4 +6,4 @@ Find whether your friends like Lentach and Obrazovach or they more of MDK and Or
 Python3 is required!
 
 Run as: 
-python main.py
+**python main.py**
